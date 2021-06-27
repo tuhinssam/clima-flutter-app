@@ -1,10 +1,5 @@
 
-# Clima ☁
-
-## Objective
-
-Learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
-
+# Clima ☁ A Weather App
 
 ## App Demo
 
@@ -12,7 +7,7 @@ weather app inspired by the beautiful designs made by [Olia Gozha](https://dribb
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-## Characteristics
+## Features
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
